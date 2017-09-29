@@ -1,4 +1,4 @@
-# SA-MP++
+# SA-MP++ [OFFICAL] [DYNAMIC] 
 
 ![alt text](https://i.imgur.com/zkH1qwQ.png)
 
